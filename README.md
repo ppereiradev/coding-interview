@@ -1,6 +1,6 @@
 # Coding Interview Prep
 
-There are several Jupyter Notebooks that I am using to prepare for the code interview in the Google. Feel free to clone and use these notebooks to prepare for your code interview.
+In this repository, there are several Jupyter Notebooks that I am using to prepare for my code interview in the Google. Feel free to clone and use these notebooks to prepare for your code interview.
 
 ## Installation
 
